@@ -21,7 +21,7 @@ jobs:
         version: latest
 
     - name: Build
-      run: pnpm dlx @marp-team/marp-cli@latest contents -o dist
+      run: pnpm dlx @marp-team/marp-cli@latest contents -o dist/index.html
     
     - uses: actions/upload-pages-artifact@v3
       with:
