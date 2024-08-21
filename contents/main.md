@@ -57,6 +57,4 @@ discord.pyなどのライブラリだと単一で動かした場合、そうい�
 
 ---
 
-# 最後に
-今回作成したソフトのURL
-https://github.com/neodyland/autosharding.git
+# ご清聴ありがとうございました。
