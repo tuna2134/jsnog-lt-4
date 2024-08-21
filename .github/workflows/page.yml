@@ -45,3 +45,6 @@ jobs:
     steps:
     - uses: actions/deploy-pages@v3
       id: deployment
+      with:
+        artifact_name: github-pages
+        token: ${{ github.token }}
